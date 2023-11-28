@@ -7,7 +7,7 @@ import {
   LoginBtn,
   NavText,
   Sidebar,
-} from "./YourStyledComponentsFile";
+} from "./style";
 
 const IndexPage = () => {
   return (

@@ -9,7 +9,8 @@ import {
   Button,
   Logo,
 } from "./catalogGames";
-import Footer from "../../components/footer/footer";
+import Footer from "../../components/footer/footer.jsx";
+
 
 const CatalogGames = () => {
   const catalog = () => {

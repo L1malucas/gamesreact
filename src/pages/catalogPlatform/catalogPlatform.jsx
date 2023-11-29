@@ -6,7 +6,7 @@ import {
   RegisterSection,
   WallpaperSection,
 } from "./catalogPlatform";
-import Footer from "../../components/footer/footer";
+import Footer from "../../components/footer/footer.jsx";
 
 const CatalogPlatform = () => {
   const catalog = () => {

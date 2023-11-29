@@ -7,7 +7,7 @@ import {
   WallpaperSection,
   Button,
 } from "./cadastro";
-import Footer from "../../components/footer/footer";
+import Footer from "../../components/footer/footer.jsx";
 
 const Cadastro = () => {
   return (

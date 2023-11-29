@@ -13,7 +13,7 @@ import {
   Input,
   WallpaperContainer,
   MediaQueryStyles,
-} from "./login"; 
+} from "./login";
 
 const Login = () => {
   const login = () => {
@@ -54,7 +54,7 @@ const Login = () => {
       <GlobalStyles />
       <HeaderContainer>
         <img
-          src="../assets/image/logoff.png"
+          src="../../assets/image/logoff.png"
           alt=""
           className="btn-back"
           onClick={goBack}
